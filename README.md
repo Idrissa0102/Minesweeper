@@ -1,5 +1,8 @@
 # Minesweeper
-** Assane DIATTA ** Idrissa SOW ** Dielya WANE
+## Membres
+### Assane DIATTA
+### Idrissa SOW
+### Dielya WANE
 
 L’objectif de ce mini-projet est de mettre en œuvre le jeu de Démineur en utilisant Java comme langage de programmation. Description du jeu
 
